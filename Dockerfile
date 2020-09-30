@@ -11,7 +11,7 @@ VOLUME /tmp
 EXPOSE 8089
 
 # The application's jar file
-ARG JAR_FILE=target/ng5-api-0.0.1-SNAPSHOT.jar
+ARG JAR_FILE=target/postgres-demo-0.0.1-SNAPSHOT.jar
 
 # Add the application's jar to the container
 ADD ${JAR_FILE} ng5-api.jar
