@@ -1,5 +1,5 @@
 # Start with a base image containing Java runtime
-FROM openjdk:8-jdk-alpine
+FROM openjdk:12-jdk-alpine
 
 # Add Maintainer Info
 LABEL maintainer="adsoft@live.com.mx"
