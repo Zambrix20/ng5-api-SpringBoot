@@ -1,9 +1,9 @@
-/Users/m/code/ng5-api/src/main/java/com/example/ng5api/exception/ResourceNotFoundException.java
-/Users/m/code/ng5-api/src/main/java/com/example/ng5api/model/Question.java
-/Users/m/code/ng5-api/src/main/java/com/example/ng5api/Ng5ApiApplication.java
-/Users/m/code/ng5-api/src/main/java/com/example/ng5api/controller/QuestionController.java
-/Users/m/code/ng5-api/src/main/java/com/example/ng5api/repository/QuestionRepository.java
-/Users/m/code/ng5-api/src/main/java/com/example/ng5api/model/Answer.java
-/Users/m/code/ng5-api/src/main/java/com/example/ng5api/controller/AnswerController.java
-/Users/m/code/ng5-api/src/main/java/com/example/ng5api/model/AuditModel.java
-/Users/m/code/ng5-api/src/main/java/com/example/ng5api/repository/AnswerRepository.java
+/home/arthur/Documentos/Administracion de Proyectos de Ingenieria de Software/apis4/ng5-api/src/main/java/com/example/ng5api/model/AuditModel.java
+/home/arthur/Documentos/Administracion de Proyectos de Ingenieria de Software/apis4/ng5-api/src/main/java/com/example/ng5api/repository/QuestionRepository.java
+/home/arthur/Documentos/Administracion de Proyectos de Ingenieria de Software/apis4/ng5-api/src/main/java/com/example/ng5api/controller/QuestionController.java
+/home/arthur/Documentos/Administracion de Proyectos de Ingenieria de Software/apis4/ng5-api/src/main/java/com/example/ng5api/model/Answer.java
+/home/arthur/Documentos/Administracion de Proyectos de Ingenieria de Software/apis4/ng5-api/src/main/java/com/example/ng5api/repository/AnswerRepository.java
+/home/arthur/Documentos/Administracion de Proyectos de Ingenieria de Software/apis4/ng5-api/src/main/java/com/example/ng5api/Ng5ApiApplication.java
+/home/arthur/Documentos/Administracion de Proyectos de Ingenieria de Software/apis4/ng5-api/src/main/java/com/example/ng5api/controller/AnswerController.java
+/home/arthur/Documentos/Administracion de Proyectos de Ingenieria de Software/apis4/ng5-api/src/main/java/com/example/ng5api/model/Question.java
+/home/arthur/Documentos/Administracion de Proyectos de Ingenieria de Software/apis4/ng5-api/src/main/java/com/example/ng5api/exception/ResourceNotFoundException.java
