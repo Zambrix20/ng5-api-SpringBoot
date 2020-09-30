@@ -18,3 +18,9 @@ ADD ${JAR_FILE} ng5-api.jar
 
 # Run the jar file 
 ENTRYPOINT ["java","-Djava.security.egd=file:/dev/./urandom","-jar","/ng5-api.jar"]
+
+# docker build
+# sudo docker build -t <dockerhub-user>/ng5-api .
+
+# docker run
+# sudo docker run --name <linuxuser>-api -p 8xxx:8080 <dockerhub-user>/ng5-api  
